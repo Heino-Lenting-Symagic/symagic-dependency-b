@@ -1,0 +1,19 @@
+{
+  "name": "@heinolenting/symagic-dependency-b",
+  "version": "1.0.0",
+  "description": "Symagic dependency B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heino-Lenting-Symagic/symagic-dependency-b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heino-Lenting-Symagic/symagic-dependency-b/issues"
+  },
+  "homepage": "https://github.com/Heino-Lenting-Symagic/symagic-dependency-b#readme"
+}
